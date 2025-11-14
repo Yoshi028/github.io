@@ -1,0 +1,44 @@
+# Yoshihiro Tsunoda – Data Analytics Portfolio
+
+Welcome to my data analytics portfolio.  
+I am currently developing my skills in **R**, **Python**, **data visualization**, and **statistical analysis**, applying them to real-world datasets and practical use cases.
+
+---
+
+## 👨‍💻 About Me
+I am a chef living in Sweden, currently transitioning into the field of **data analytics**.  
+I am learning programming, statistics, and analytical thinking to build a new career path.
+
+---
+
+## 📚 Skills
+- **R** (tidyverse, ggplot2, regression modeling)
+- **Python** (pandas, matplotlib)
+- **Data Cleaning & Wrangling**
+- **Data Visualization**
+- **Basic Statistical Modeling**
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 1. World Happiness Report – Exploratory Data Analysis  
+**What I did:**  
+- Cleaned and prepared the dataset  
+- Ran correlation analysis  
+- Built regression models (GDP, Social Support → Happiness Score)  
+- Visualized country differences (Nordic vs Others)
+
+👉 **View Project**  
+[Happiness Analysis](projects/happiness-analysis/README.md)
+
+---
+
+## 📫 Contact
+- **Email:** yourmail@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/xxxxxx  
+- **GitHub:** https://github.com/YOUR-USERNAME
+
+---
+
+*This site is built with GitHub Pages and written in Markdown.*
