@@ -36,7 +36,7 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 
 ## 📫 Contact
 - **Email:** yoshihiro.tsunoda028@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/yoshihiro-tsunoda-b7a51227a/
+- **LinkedIn:** https://www.linkedin.com/in/yoshihiro-tsunoda/
 - **GitHub:** https://github.com/Yoshi028
 
 ---
