@@ -12,7 +12,7 @@ This project analyzes whether economically wealthier countries tend to report hi
 ---
 
 ## 📊 Dataset
-- Source: World Happiness Report (year: XXXX)
+- Source: World Happiness Report (year: 2019)
 - Variables used:
   - `GDP_per_capita`
   - `Social_support`
