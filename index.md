@@ -35,9 +35,9 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 ---
 
 ## 📫 Contact
-- **Email:** yourmail@example.com  
-- **LinkedIn:** https://www.linkedin.com/in/xxxxxx  
-- **GitHub:** https://github.com/YOUR-USERNAME
+- **Email:** yoshihiro.tsunoda028@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/yoshihiro-tsunoda-b7a51227a/
+- **GitHub:** https://github.com/Yoshi028
 
 ---
 
