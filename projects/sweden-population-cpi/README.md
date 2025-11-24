@@ -11,7 +11,7 @@ This project analyzes long-term trends in Sweden’s **population** and **consum
 ## 📁 Full Project (GitHub Repository)
 You can view the complete analysis, code, figures, and full report here:
 
-👉 **Sweden-Population-CPI-Analysis Repository**  
+👉 **Sweden Population CPI Analysis Repository**  
 https://github.com/Yoshi028/Sweden-Population-CPI-Analysis
 
 ## 🔗 Back to Portfolio
