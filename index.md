@@ -32,6 +32,17 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 👉 **View Project**  
 [Happiness Analysis](projects/happiness-analysis/README.md)
 
+### 🔹 2. Sweden Population vs CPI – Long-term Trend Analysis
+
+**What I did:**
+- Analyzed Sweden’s population and CPI data
+- Calculated long-term trends and changes
+- Created line charts using R
+- Interpreted demographic & economic implications
+
+👉 **View Project**  
+[Sweden Population vs CPI](projects/sweden-population-cpi/README.md)
+
 ---
 
 ## 📫 Contact
