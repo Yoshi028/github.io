@@ -52,7 +52,8 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 - Visualized insights and business implications in Tableau
 
 👉 **View Project**  
-[E-commerce Sales & Customer Insights ](projects/ecommerce-revenue-user-insights/README.md)
+[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+
 ---
 
 ## 📫 Contact
