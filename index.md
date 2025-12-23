@@ -43,6 +43,16 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 👉 **View Project**  
 [Sweden Population vs CPI](projects/sweden-population-cpi/README.md)
 
+### 🔹 3. E-commerce Sales & Customer Insights 
+
+**What I did:**
+- Analyzed e-commerce sales trends and seasonality using SQL
+- Evaluated customer behavior (AOV, frequency, new vs repeat)
+- CAssessed category performance and revenue concentration
+- Visualized insights and business implications in Tableau
+
+👉 **View Project**  
+[E-commerce Sales & Customer Insights ](projects/ecommerce-revenue-user-insights/blob/main/README.md)
 ---
 
 ## 📫 Contact
