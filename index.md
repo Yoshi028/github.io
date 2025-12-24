@@ -54,6 +54,29 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 👉 **View Project**  
 [E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
 
+### 🔹 4. Customer Dataset Cleaning Project – Excel Power Query
+
+**What I did:**
+- Identified common data quality issues such as missing values, duplicates, and inconsistent formats
+- Cleaned and standardized customer data using Excel Power Query
+- Normalized categorical values and corrected text formatting
+- Prepared an analysis-ready dataset suitable for reporting and further analytics
+
+👉 **View Project**  
+[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+
+### 🔹 5. Hotel Booking Analysis – Booking & Cancellation Insights
+
+**What I did:**
+- Analyzed hotel booking and cancellation data to identify key behavioral patterns
+- Examined lead time, market segments, and cancellation risk
+- Created aggregated datasets using SQL and visualized insights with Python and Power BI
+- Interpreted business implications for booking strategy and demand management
+
+👉 **View Project**  
+[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+
+
 ---
 
 ## 📫 Contact
