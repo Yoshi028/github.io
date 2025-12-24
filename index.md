@@ -52,7 +52,7 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 - Visualized insights and business implications in Tableau
 
 👉 **View Project**  
-[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+[E-commerce Sales & Customer Insights](https://github.com/Yoshi028/ecommerce-revenue-user-insights)
 
 ### 🔹 4. Customer Dataset Cleaning Project – Excel Power Query
 
@@ -63,7 +63,7 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 - Prepared an analysis-ready dataset suitable for reporting and further analytics
 
 👉 **View Project**  
-[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+[E-commerce Sales & Customer Insights](https://github.com/Yoshi028/customer-dataset-cleaning)
 
 ### 🔹 5. Hotel Booking Analysis – Booking & Cancellation Insights
 
@@ -74,7 +74,7 @@ I am learning programming, statistics, and analytical thinking to build a new ca
 - Interpreted business implications for booking strategy and demand management
 
 👉 **View Project**  
-[E-commerce Sales & Customer Insights](projects/ecommerce-revenue-user-insights/README.md)
+[E-commerce Sales & Customer Insights](https://github.com/Yoshi028/hotel-booking-analysis)
 
 
 ---
