@@ -6,8 +6,9 @@ I am currently developing my skills in **R**, **Python**, **data visualization**
 ---
 
 ## 👨‍💻 About Me
-I am a chef living in Sweden, currently transitioning into the field of **data analytics**.  
-I am learning programming, statistics, and analytical thinking to build a new career path.
+I am an aspiring Data Analyst currently developing my skills in SQL, Python, R, and data visualization.
+I focus on turning real-world data into actionable insights through research, statistical analysis.
+Passionate about solving business problems through data-driven decision-making.
 
 ---
 
